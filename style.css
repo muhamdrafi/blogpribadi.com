@@ -1,0 +1,53 @@
+h1, h2, h3{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: auto;
+    background-color: lightslategrey;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    width: auto;
+}
+
+img{
+    width: 350px;
+    height: 400px;
+}
+
+a{
+    font-family: garamond;
+    color: white;
+}
+
+div{
+    background-color: wheat;
+    margin: auto;
+}
+
+fieldset{
+    border: 5px solid;
+}
+
+td{
+    text-align: center;
+}
+
+table{
+    height: 300px;
+    width: 400px;
+}
+
+b{
+    font-size: large;
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    color: black;
+    background-color: lightslategrey;
+}
